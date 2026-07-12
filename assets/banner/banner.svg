@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="520" viewBox="0 0 1100 520">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#171717" stroke-width="1"/>
+    </pattern>
+
+    <linearGradient id="borderGlow" x1="0" y1="0" x2="1100" y2="520">
+      <stop offset="0%" stop-color="#00FF88"/>
+      <stop offset="100%" stop-color="#2a2a2a"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1100" height="520" rx="18" fill="#09090B"/>
+  <rect width="1100" height="520" rx="18" fill="url(#grid)" opacity=".35"/>
+  <rect x="1" y="1" width="1098" height="518" rx="17" fill="none" stroke="url(#borderGlow)" stroke-opacity=".4"/>
+
+  <rect width="1100" height="54" rx="18" fill="#111111"/>
+  <rect y="40" width="1100" height="14" fill="#111111"/>
+  <circle cx="32" cy="27" r="7" fill="#FF5F56"/>
+  <circle cx="56" cy="27" r="7" fill="#FFBD2E"/>
+  <circle cx="80" cy="27" r="7" fill="#27C93F"/>
+  <text x="550" y="33" text-anchor="middle" fill="#cfcfcf" font-size="16"
+        font-family="SFMono-Regular,Menlo,Consolas,monospace">VIDUSHI.OS</text>
+
+  <text x="48" y="95" fill="#00FF88" font-size="20"
+        font-family="SFMono-Regular,Menlo,Consolas,monospace">&gt; booting creative environment...</text>
+
+  <rect x="48" y="120" width="600" height="12" rx="6" fill="#1a1a1a"/>
+  <rect x="48" y="120" width="600" height="12" rx="6" fill="#00FF88" filter="url(#glow)">
+    <animate attributeName="width" values="0;600" dur="2.5s" fill="freeze"/>
+  </rect>
+  <text x="662" y="131" fill="#00FF88" font-size="14"
+        font-family="SFMono-Regular,Menlo,Consolas,monospace">100%</text>
+
+  <g fill="#d8d8d8" font-size="17" font-family="SFMono-Regular,Menlo,Consolas,monospace">
+    <text x="48" y="170">✓ React</text>
+    <text x="200" y="170">✓ Next.js</text>
+    <text x="390" y="170">✓ Three.js</text>
+    <text x="48" y="200">✓ GSAP</text>
+    <text x="200" y="200">✓ TypeScript</text>
+    <text x="390" y="200">✓ WebGL</text>
+  </g>
+
+  <line x1="48" y1="230" x2="1052" y2="230" stroke="#232323"/>
+
+  <g font-family="SFMono-Regular,Menlo,Consolas,monospace">
+    <text x="48" y="270" fill="#00FF88" font-size="18">$ whoami</text>
+
+    <text x="48" y="315" fill="#ffffff" font-size="32" font-weight="600">Vidushi Saxena</text>
+
+    <text x="48" y="350" fill="#00FF88" font-size="20">Creative Frontend Developer</text>
+
+    <text x="48" y="390" fill="#c8c8c8" font-size="18">
+      Crafting digital experiences
+    </text>
+    <text x="48" y="418" fill="#c8c8c8" font-size="18">
+      that move, respond, and feel alive.
+    </text>
+  </g>
+
+  <line x1="48" y1="445" x2="1052" y2="445" stroke="#232323"/>
+
+  <g font-family="SFMono-Regular,Menlo,Consolas,monospace" font-size="16">
+    <text x="48" y="480" fill="#00FF88">STATUS</text>
+    <text x="150" y="480" fill="#d8d8d8">ONLINE</text>
+
+    <text x="330" y="480" fill="#00FF88">FOCUS</text>
+    <text x="420" y="480" fill="#d8d8d8">Creative Interfaces</text>
+
+    <text x="760" y="480" fill="#00FF88">$</text>
+    <rect x="777" y="466" width="10" height="18" fill="#00FF88">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
