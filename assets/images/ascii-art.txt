@@ -1,9 +1,16 @@
-<table>
-<tr>
-
-<td valign="top">
-
-<pre>                                                                                                                                                          
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
                                                            =  +:  @@%%@@@@+                                                           
                                                          %%+#@@@@# :#  =%@@%@=                                                        
                                                       *=*: .      -:  +    #*#@+*                                                     
@@ -81,107 +88,23 @@
                                              .          :-.   ..           *       :....:.        ...          .:                     
                                                       .:             ..                   ..        ...          ..                   
                               .                      ..            ..     .--      .:.:....  .        ..                              
-                                         
-</pre>
-
-</td>
-
-<td valign="top">
-
-<pre>
-vidushisaxen
-──────────────────────────────────────────────
-
-$ whoami
-
-role          Creative Frontend Engineer
-experience    1.5+ Years
-location      Noida, India
-
-focus         Motion
-              WebGL
-              Creative UI
-
-currently     React
-              Next.js
-              Three.js
-
-──────────────────────────────────────────────
-
-$ stack
-
-languages     HTML
-              CSS
-              JavaScript
-              TypeScript
-
-frameworks    React
-              Next.js
-              Three.js
-              React Three Fiber
-
-animation     GSAP
-              Framer Motion
-              Lenis
-
-styling       Tailwind CSS
-              SCSS
-
-tools         Git
-              GitHub
-              VS Code
-              Figma
-              Vercel
-
-──────────────────────────────────────────────
-
-$ workspace
-
-building      Personal Portfolio
-              Creative Experiments
-              Interactive Components
-
-learning      GLSL
-              WebGPU
-              Creative Coding
-
-──────────────────────────────────────────────
-
-$ github
-
-repositories  Loading...
-followers     Loading...
-following     Loading...
-stars         Loading...
-
-──────────────────────────────────────────────
-
-$ contact
-
-github        github.com/vidushisaxen
-linkedin      linkedin.com/in/vidushi-saxena
-portfolio     Coming Soon
-email         your@email.com
-
-──────────────────────────────────────────────
-
-$ system
-
-status        ONLINE
-availability  Open to Opportunities
-
-──────────────────────────────────────────────
-
-$ mission
-
-Building interfaces people remember.
-
-Blending design, motion and engineering
-into immersive digital experiences.
-
-</pre>
-
-</td>
-
-</tr>
-</table>
+                                                                         ..         . ...  :.:::. ...  . .                            
+                                                                       .     :.                                                       
+                                                                            .:.                                                       
+                               .                                         .::.....                                                     
+                                                                      ....                                                            
+                                    .                                                             :@:                                 
+                                      .                                                                                               
+                                                                                                                                      
+                                                                                                                                      
+                        .                                                                                                             
+                                                                                                                                      
+                                                                                                                                      
+                      .                                                                                                               
+                                                                                                                                      
+                     .                                                                                                                
+                     .                                                    .                                    .                      
+                                                                                                                                      
+                                                                          .                                                           
+                   .                                                      .                                                           
+                                                                                                                                      
