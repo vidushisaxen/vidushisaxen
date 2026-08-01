@@ -3,7 +3,20 @@
 
 <td valign="top">
 
-<pre>                                                                                                                                                          
+<pre style="font-size:4px; line-height:4px;">
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
+                                                                                                                                      
                                                            =  +:  @@%%@@@@+                                                           
                                                          %%+#@@@@# :#  =%@@%@=                                                        
                                                       *=*: .      -:  +    #*#@+*                                                     
@@ -81,104 +94,65 @@
                                              .          :-.   ..           *       :....:.        ...          .:                     
                                                       .:             ..                   ..        ...          ..                   
                               .                      ..            ..     .--      .:.:....  .        ..                              
-                                         
+                                                                         ..         . ...  :.:::. ...  . .                            
+                                                                       .     :.                                                       
+                                                                            .:.                                                       
+                               .                                         .::.....                                                     
+                                                                      ....                                                            
+                                    .                                                             :@:                                 
+                                      .                                                                                               
+                                                                                                                                      
+                                                                                                                                      
+                        .                                                                                                             
+                                                                                                                                      
+                                                                                                                                      
+                      .                                                                                                               
+                                                                                                                                      
+                     .                                                                                                                
+                     .                                                    .                                    .                      
+                                                                                                                                      
+                                                                          .                                                           
+                   .                                                      .                                                           
+                                                                                                                                      
 </pre>
 
 </td>
 
+
 <td valign="top">
 
 <pre>
-vidushisaxen
-──────────────────────────────────────────────
+vidushisaxen@github
+────────────────────────────────────────────
 
-$ whoami
+OS: .......................... Frontend Engineer
+Host: ......................... Noida, India
+Kernel: ....................... React / Next.js
+Uptime: ....................... 1.5+ Years
+IDE: .......................... VS Code
 
-role          Creative Frontend Engineer
-experience    1.5+ Years
-location      Noida, India
+Languages.Web: ................ HTML, CSS, JS, TS
+Languages.Real: ............... English, Hindi
 
-focus         Motion
-              WebGL
-              Creative UI
+Frameworks: .................... React, Next.js
+                                  Three.js, R3F
+Animation: ...................... GSAP, Framer Motion, Lenis
+Styling: ........................ Tailwind CSS, SCSS
+Tools: ........................... Git, Figma, Vercel
 
-currently     React
-              Next.js
-              Three.js
+Focus: ............................ Motion, WebGL, Creative UI
+Learning: ......................... GLSL, WebGPU
 
-──────────────────────────────────────────────
+────────────────────────────────────────────
 
-$ stack
+Email: ............................. vidushisaxena002@gmail.com
+GitHub: ............................. github.com/vidushisaxen
+LinkedIn: ............................ linkedin.com/in/vidushi-saxena-071786228
 
-languages     HTML
-              CSS
-              JavaScript
-              TypeScript
+────────────────────────────────────────────
 
-frameworks    React
-              Next.js
-              Three.js
-              React Three Fiber
-
-animation     GSAP
-              Framer Motion
-              Lenis
-
-styling       Tailwind CSS
-              SCSS
-
-tools         Git
-              GitHub
-              VS Code
-              Figma
-              Vercel
-
-──────────────────────────────────────────────
-
-$ workspace
-
-building      Personal Portfolio
-              Creative Experiments
-              Interactive Components
-
-learning      GLSL
-              WebGPU
-              Creative Coding
-
-──────────────────────────────────────────────
-
-$ github
-
-repositories  Loading...
-followers     Loading...
-following     Loading...
-stars         Loading...
-
-──────────────────────────────────────────────
-
-$ contact
-
-github        github.com/vidushisaxen
-linkedin      linkedin.com/in/vidushi-saxena
-portfolio     Coming Soon
-email         your@email.com
-
-──────────────────────────────────────────────
-
-$ system
-
-status        ONLINE
-availability  Open to Opportunities
-
-──────────────────────────────────────────────
-
-$ mission
-
-Building interfaces people remember.
-
-Blending design, motion and engineering
-into immersive digital experiences.
-
+Repos: 64  |  Stars: 5  |  Followers: 4
+Joined GitHub: Jun 2022  |  Status: Open to Work
 </pre>
 
 </td>
