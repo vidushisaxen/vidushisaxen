@@ -1,0 +1,12 @@
+{
+  "name": "vidushisaxen-profile-terminal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Automated GitHub profile terminal SVG generator",
+  "scripts": {
+    "update-svg": "node scripts/update-svg.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
