@@ -71,7 +71,7 @@ async function collectStats() {
     follower_data: followers,
     following_data: following,
     commit_data: commits,
-    streak_data: streak === PLACEHOLDER ? streak : `${streak} days`,
+    streak_data: streak === PLACEHOLDER ? streak : `${streak}`,
     updated_data: formatLastUpdated(),
   };
 }
