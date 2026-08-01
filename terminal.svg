@@ -166,14 +166,14 @@ text {
 
 <tspan x="630" y="690" class="cc">• </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value" id="commit_data">675</tspan>
 
-<tspan x="630" y="715" class="cc">• </tspan><tspan class="key">Streak</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value" id="streak_data">1 days</tspan>
+<tspan x="630" y="715" class="cc">• </tspan><tspan class="key">Streak</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value" id="streak_data">1</tspan>
 
-<tspan x="630" y="740" class="cc">• </tspan><tspan class="key">Updated</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value" id="updated_data">02 Aug 2026 • 00:37 IST</tspan>
+<tspan x="630" y="740" class="cc">• </tspan><tspan class="key">Updated</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value" id="updated_data">02 Aug 2026 • 00:47 IST</tspan>
 
 <tspan x="630" y="780">- System ......................................................................................................</tspan>
 
 <tspan x="630" y="805" class="cc">• </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">ONLINE </tspan></text>
-<circle cx="1050" cy="800" r="5" fill="#00ff88">
+<circle cx="1035" cy="800" r="5" fill="#00ff88">
 <animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/>
 </circle>
 <text x="630" y="830">
