@@ -156,19 +156,19 @@ text {
 
 <tspan x="630" y="565">- GitHub Stats ......................................................................................................</tspan>
 
-<tspan x="630" y="590" class="cc">• </tspan><tspan class="key">Repositories</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value" id="repo_data">64</tspan>
+<tspan x="630" y="590" class="cc">• </tspan><tspan class="key">Repositories</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value" id="repo_data">6</tspan>
 
-<tspan x="630" y="615" class="cc">• </tspan><tspan class="key">Stars</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value" id="star_data">6</tspan>
+<tspan x="630" y="615" class="cc">• </tspan><tspan class="key">Stars</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value" id="star_data">1</tspan>
 
 <tspan x="630" y="640" class="cc">• </tspan><tspan class="key">Followers</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value" id="follower_data">4</tspan>
 
 <tspan x="630" y="665" class="cc">• </tspan><tspan class="key">Following</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value" id="following_data">8</tspan>
 
-<tspan x="630" y="690" class="cc">• </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value" id="commit_data">677</tspan>
+<tspan x="630" y="690" class="cc">• </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value" id="commit_data">486</tspan>
 
-<tspan x="630" y="715" class="cc">• </tspan><tspan class="key">Streak</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value" id="streak_data">4</tspan>
+<tspan x="630" y="715" class="cc">• </tspan><tspan class="key">Streak</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value" id="streak_data">0</tspan>
 
-<tspan x="630" y="740" class="cc">• </tspan><tspan class="key">Updated</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value" id="updated_data">04 Aug 2026 • 08:16 IST</tspan>
+<tspan x="630" y="740" class="cc">• </tspan><tspan class="key">Updated</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value" id="updated_data">05 Aug 2026 • 08:14 IST</tspan>
 
 <tspan x="630" y="780">- System ......................................................................................................</tspan>
 
